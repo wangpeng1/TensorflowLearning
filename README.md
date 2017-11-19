@@ -5,3 +5,5 @@ good pre_trained https://github.com/Aniruddha-Tapas/Transfer-Learning-for-Animal
 
 Basic Models and  Neural Networks https://github.com/aymericdamien/TensorFlow-Examples
 
+
+TFRecords http://www.machinelearninguru.com/deep_learning/tensorflow/basics/tfrecord/tfrecord.html
