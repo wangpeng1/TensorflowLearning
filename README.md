@@ -7,3 +7,6 @@ Basic Models and  Neural Networks https://github.com/aymericdamien/TensorFlow-Ex
 
 
 TFRecords http://www.machinelearninguru.com/deep_learning/tensorflow/basics/tfrecord/tfrecord.html
+
+TensorFlow Datasets and Estimators https://developers.googleblog.com/2017/09/introducing-tensorflow-datasets.html
+https://github.com/tensorflow/workshops/blob/master/notebooks/07_structured_data.ipynb
