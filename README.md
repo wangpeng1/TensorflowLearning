@@ -10,3 +10,5 @@ TFRecords http://www.machinelearninguru.com/deep_learning/tensorflow/basics/tfre
 
 TensorFlow Datasets and Estimators https://developers.googleblog.com/2017/09/introducing-tensorflow-datasets.html
 https://github.com/tensorflow/workshops/blob/master/notebooks/07_structured_data.ipynb
+
+https://github.com/vahidk/EffectiveTensorflow  basic op
