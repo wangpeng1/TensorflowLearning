@@ -12,3 +12,5 @@ TensorFlow Datasets and Estimators https://developers.googleblog.com/2017/09/int
 https://github.com/tensorflow/workshops/blob/master/notebooks/07_structured_data.ipynb
 
 https://github.com/vahidk/EffectiveTensorflow  basic op
+
+https://github.com/adeshpande3/Tensorflow-Programs-and-Tutorials/blob/master/SELU%20Nonlinearity.ipynb SELU Methods
