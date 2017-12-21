@@ -18,3 +18,5 @@ https://github.com/adeshpande3/Tensorflow-Programs-and-Tutorials/blob/master/SEL
 https://github.com/backstopmedia/tensorflowbook basic code struc and google format
 
 https://github.com/terryum/TensorFlow_Exercises/blob/master/3c_MLP_MNIST_topNresults_160712.ipynb MLP_MNIST_topNresults
+
+https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/10_Fine-Tuning.ipynb reuse model
