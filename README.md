@@ -16,3 +16,5 @@ https://github.com/vahidk/EffectiveTensorflow  basic op
 https://github.com/adeshpande3/Tensorflow-Programs-and-Tutorials/blob/master/SELU%20Nonlinearity.ipynb SELU Methods
 
 https://github.com/backstopmedia/tensorflowbook basic code struc and google format
+
+https://github.com/terryum/TensorFlow_Exercises/blob/master/3c_MLP_MNIST_topNresults_160712.ipynb MLP_MNIST_topNresults
