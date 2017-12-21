@@ -14,3 +14,5 @@ https://github.com/tensorflow/workshops/blob/master/notebooks/07_structured_data
 https://github.com/vahidk/EffectiveTensorflow  basic op
 
 https://github.com/adeshpande3/Tensorflow-Programs-and-Tutorials/blob/master/SELU%20Nonlinearity.ipynb SELU Methods
+
+https://github.com/backstopmedia/tensorflowbook basic code struc and google format
