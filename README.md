@@ -20,3 +20,9 @@ https://github.com/backstopmedia/tensorflowbook basic code struc and google form
 https://github.com/terryum/TensorFlow_Exercises/blob/master/3c_MLP_MNIST_topNresults_160712.ipynb MLP_MNIST_topNresults
 
 https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/10_Fine-Tuning.ipynb reuse model
+
+https://developer.android.google.cn/ndk/guides/android_mk.html#over
+
+http://blog.csdn.net/u014418171/article/details/53337759
+
+https://www.jianshu.com/p/ceaa286d8aff
